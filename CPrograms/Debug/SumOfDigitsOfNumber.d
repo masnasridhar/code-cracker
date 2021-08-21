@@ -1,0 +1,1 @@
+SumOfDigitsOfNumber.d: ../SumOfDigitsOfNumber.c

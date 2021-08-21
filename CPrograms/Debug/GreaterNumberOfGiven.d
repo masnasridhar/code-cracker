@@ -1,0 +1,1 @@
+GreaterNumberOfGiven.d: ../GreaterNumberOfGiven.c

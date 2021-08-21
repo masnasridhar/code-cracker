@@ -1,0 +1,1 @@
+AreaOfTriangle.d: ../AreaOfTriangle.c

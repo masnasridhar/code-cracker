@@ -1,0 +1,1 @@
+Palindram.d: ../Palindram.c

@@ -1,0 +1,1 @@
+AmstrongNumber.d: ../AmstrongNumber.c

@@ -1,0 +1,1 @@
+EvenOrOdd.d: ../EvenOrOdd.c

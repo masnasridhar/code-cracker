@@ -1,0 +1,1 @@
+FibonaaciSeries.d: ../FibonaaciSeries.c

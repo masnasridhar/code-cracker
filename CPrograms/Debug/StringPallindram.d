@@ -1,0 +1,1 @@
+StringPallindram.d: ../StringPallindram.c

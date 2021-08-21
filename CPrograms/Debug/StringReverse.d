@@ -1,0 +1,1 @@
+StringReverse.d: ../StringReverse.c
